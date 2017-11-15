@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar_opacity">#33000000</color>
+
+    <color name="colorPrimary">#24304b</color>
+    <color name="colorPrimaryDark">#1d253c</color>
+    <color name="colorAccent">#f9c614</color>
+    <color name="white">#FFFFFF</color>
+</resources>

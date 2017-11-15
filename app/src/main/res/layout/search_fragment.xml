@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+   >
+
+
+    <EditText
+        android:id="@+id/barcode"
+        android:layout_width="wrap_content"
+        android:layout_height="39dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:gravity="center_horizontal|center_vertical"
+        android:ems="10"
+        android:inputType="text"
+        android:hint="@string/barcode"
+        android:background="@color/white"
+        android:text="" />
+
+    <Button
+        android:id="@+id/search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/barcode"
+        android:layout_alignStart="@+id/barcode"
+        android:layout_below="@+id/barcode"
+        android:backgroundTint="@color/colorAccent"
+        android:textColor="@color/colorPrimary"
+        android:text="@string/search" />
+
+    <Button
+        android:id="@+id/scan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/barcode"
+        android:layout_alignRight="@+id/barcode"
+        android:layout_alignTop="@+id/search"
+        android:backgroundTint="@color/colorAccent"
+        android:textColor="@color/colorPrimary"
+        android:text="@string/scan" />
+</RelativeLayout>

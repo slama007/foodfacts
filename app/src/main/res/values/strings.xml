@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">foodfacts</string>
+    <string name="history">history</string>
+    <string name="search">search</string>
+    <string name="scan">scan</string>
+    <string name="barcode">barcode number</string>
+    <string name="nobarcode">No entered Bar code</string>
+    <string name="camerapermission">Please grant camera permission to use the QR Scanner</string>
+
+    <string name="productinfo">Product Information</string>
+    <string name="noproduct">This product does not exist ...</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="energy">Energy</string>
+    <string name="ingredian">ingredients</string>
+
+
+    <string name="scanner_activity">ZBar Scanner - Full Activity</string>
+    <string name="scanner_fragment_activity">ZBar Scanner - Full Fragment Activity</string>
+    <string name="simple_scanner_activity">ZBar Scanner - Simple Activity</string>
+    <string name="simple_scanner_fragment_activity">ZBar Scanner - Simple Fragment Activity</string>
+    <string name="simple_activity_sample">Simple Activity Sample</string>
+    <string name="simple_fragment_sample">Simple Fragment Sample</string>
+    <string name="activity_sample">Full Activity Sample</string>
+    <string name="fragment_sample">Full Fragment Sample</string>
+    <string name="toggle_flash">Flash</string>
+    <string name="flash_on">Flash [ON]</string>
+    <string name="flash_off">Flash [OFF]</string>
+    <string name="auto_focus_on">Auto Focus [ON]</string>
+    <string name="auto_focus_off">Auto Focus [OFF]</string>
+    <string name="formats">Formats</string>
+    <string name="choose_formats">Choose Formats</string>
+    <string name="select_camera">Select a Camera</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Cancel</string>
+</resources>
